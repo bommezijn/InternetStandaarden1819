@@ -1,0 +1,10 @@
+Minimal Requirements:
+- 4 pagina's
+- Navigation structure from unordered lists
+- different tags that relate to different content concepts
+- Website contains relative content in either dutch or english
+- website is somewhat complex by making use of for example a form with multiple fields, tables, audio/video or varified layout or anything else.
+- The website is neat and readable.
+- the website is your own work, when you use content that is not your own or code, make sure to tell who's it is.
+- the website is online and can be reached without any technical difficulties
+
