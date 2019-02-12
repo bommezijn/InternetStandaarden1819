@@ -1,4 +1,4 @@
-# Inleiding case online dienst
+# Inleiding case online dienst - Nathan Bommezijn M&I V1 12-2-19
 ## WANNEER is het product gelanceerd?
 Reddit was op 23 Juni 2005 gelanceerd.
 
